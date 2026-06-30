@@ -1,6 +1,8 @@
 # pwnable.kr
 
-'pwnable.kr' ofrece varios desafíos relacionados con la explotacion de sistemas.
+<img width="701" alt="logo" src="https://github.com/user-attachments/assets/23662201-0916-4c5e-8d62-be85ed59d63a" />
+
+'pwnable.kr' es otro sitio de "wargames" que ofrece varios desafíos de pwn relacionados con la explotacion de sistemas.
 
 ## 1. Toddler's Bottle
   * [x] fd
@@ -50,7 +52,7 @@
   * [x] starcraft
   * [x] cmd3
   * [x] elf
-  * [ ] lfh
+  * [x] lfh
   * [x] asg
   * [ ] hunter
   * [x] mipstake
